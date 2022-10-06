@@ -1,0 +1,34 @@
+/* .btn-submit {
+  font-size: large;
+  color: blue;
+  margin: 10, 10, 10, 10;
+}
+.btn-info {
+  font-size: large;
+  color: red;
+  margin: 10, 10, 10, 10;
+}
+.btn-cancel {
+  font-size: large;
+  color: green;
+  margin: 10, 10, 10, 10;
+} */
+
+.btn {
+  font-size: large;
+  margin: 10, 10, 10, 10;
+}
+.btn-submit {
+  background-color: aqua;
+}
+.btn-info {
+  background-color: blueviolet;
+}
+.btn-cancel {
+  background-color: coral;
+}
+.btn-footer {
+  background-color: darkblue;
+  color: white;
+
+}
